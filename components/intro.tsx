@@ -62,10 +62,10 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <span className="font-bold">Hello, I'm Kiran.</span> I'm a{" "}
-        <span className="font-bold">frontend developer</span> with{" "}
-        <span className="font-bold">5+ years</span> of experience in developing Single Page Applications.
-        <p>Currently, I'm delving into the exciting world of creating AI apps using LangchainJS to harness the power of LLMs. </p>
+  <span className="font-bold">Hello, I&apos;m Kiran.</span> I&apos;m a{" "}
+  <span className="font-bold">frontend developer</span> with{" "}
+  <span className="font-bold">5+ years</span> of experience in developing Single Page Applications.
+  <p>Currently, I&apos;m delving into the exciting world of creating AI apps using LangchainJS to harness the power of LLMs. </p>
       </motion.h1>
 
       <motion.div
