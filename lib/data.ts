@@ -67,7 +67,7 @@ export const projectsData = [
     description:
       "This is a simple web app that allows users to take photos using their webcam in real-time.",
     tags: ["React", "Next.js"],
-    imageUrl: heatmapImg,
+    imageUrl: webrtcImg,
     demo_link: "https://web-rtc-real-time-webcam-photo-booth.vercel.app"
   },
   {
@@ -75,7 +75,7 @@ export const projectsData = [
     description:
       "Crypto heat map visually represents the performance of various cryptocurrencies within a specified time frame. It pulls the data from CoinGecko API.",
     tags: ["React", "Material UI"],
-    imageUrl: webrtcImg,
+    imageUrl: heatmapImg,
     demo_link: "https://crypto-heat-map.vercel.app/"
   },
 ] as const;
